@@ -1,0 +1,4 @@
+C:\Users\stu\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\stu\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\stu\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\stu\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb

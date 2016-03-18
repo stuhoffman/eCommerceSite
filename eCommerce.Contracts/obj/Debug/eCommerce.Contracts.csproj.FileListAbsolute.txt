@@ -1,0 +1,4 @@
+C:\Users\stu\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
+C:\Users\stu\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\stu\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
+C:\Users\stu\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb
